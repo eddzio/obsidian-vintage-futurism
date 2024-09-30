@@ -1,0 +1,45 @@
+/* snippet.css */
+
+/* Edu's theme · 29 August 2024 */
+
+body {
+  --font-monospace-theme: 'Andale Mono';
+  --font-text-size: 14px;
+  
+}
+
+
+.theme-dark {
+  --background-primary: #292524;
+  --background-secondary: #44403C;
+  --code-background: #1C1917;
+  --code-normal: #FED7AA;
+  --text-normal: #FFEDD5;
+  
+  --h1-color: #f5855c;
+  --h1-weight: 600;
+  --h2-weight: 500;
+  --h3-weight: 500;
+
+  --accent-h: 16;
+  --code-size: 14px;
+
+  --list-bullet-radius: 0px;
+  --list-bullet-size: 8px;
+  --list-marker-color: #f5855c;
+  --list-bullet-end-padding: 32px;
+  --checklist-done-color: #78716C;
+
+
+  --checkbox-radius: 0px;
+  --checkbox-border-color: #f5855c;
+  --checkbox-size: 16px;
+
+}
+
+
+
+/* .theme-light {
+  --background-primary: #ECE4FF;
+  --background-secondary: #D9C9FF;
+} */
